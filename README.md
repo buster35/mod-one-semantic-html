@@ -12,7 +12,7 @@ This refactored version contains multiple notes in the index.html file that expl
 
 GitHub Repo: https://github.com/buster35/mod-one-semantic-html
 
-GitHub Pages (live): 
+GitHub Pages (live): https://buster35.github.io/mod-one-semantic-html/
 
 ## Screenshots
 
