@@ -24,6 +24,10 @@ Please see the following screenshots which preview the refactored html code (wit
 
 ![HTML 3](./Assets/images/html-screenshots/html-screenshot-3.png)
 
+## Credits
+
+Original Starter Code Pulled From: https://github.com/coding-boot-camp/urban-octo-telegram
+
 ## License
 
 Please refer to the LICENSE in the repo.
